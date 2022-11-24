@@ -36,6 +36,24 @@ We use a panoply of algorithms to segment the foreground (cheetah) from the back
   <img src="https://github.com/neilchen1998/image-segmentation-project/blob/main/results/estimation-maximization-result.jpg" width="250" height="250">
 </picture>
 
+* Maximum Likelihood (ML)
+
+<picture>
+  <img src="https://github.com/neilchen1998/image-segmentation-project/blob/main/results/maximum-likelihood-64-features-result.jpg" width="250" height="250">
+</picture>
+
+* Maximum a Posteriori (MAP)
+
+<picture>
+  <img src="https://github.com/neilchen1998/image-segmentation-project/blob/main/results/estimation-maximization-result.jpg" width="250" height="250">
+</picture>
+
+* Expectation Maximization (EM)
+
+<picture>
+  <img src="https://github.com/neilchen1998/image-segmentation-project/blob/main/results/estimation-maximization-result.jpg" width="250" height="250">
+</picture>
+
 ## Reference
 1. [Image Segmentation](https://www.mathworks.com/discovery/image-segmentation.html)
 
