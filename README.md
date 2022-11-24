@@ -9,7 +9,7 @@ We have a black-and-white image of a cheetah. Our goal is to separate the cheeta
 
 The original image:
 
-![cheetah](https://github.com/neilchen1998/image-segmentation-project/blob/main/cheetah.bmp?raw=true)
+![cheetah](https://github.com/neilchen1998/image-segmentation-project/blob/main/dataset/cheetah.bmp?raw=true)
 
 We use a panoply of algorithms to segment the foreground (cheetah) from the background (grass). Then we compare the results against each other and see which approach yields the best result (the lowest error rate).
 
@@ -29,6 +29,12 @@ We use a panoply of algorithms to segment the foreground (cheetah) from the back
 5. Expectation Maximization (EM)
 
 ## Results
+
+* Naive Bayes
+
+<picture>
+  <img src="https://github.com/neilchen1998/image-segmentation-project/blob/main/results/estimation-maximization-result.jpg" width="250" height="250">
+</picture>
 
 ## Reference
 1. [Image Segmentation](https://www.mathworks.com/discovery/image-segmentation.html)
