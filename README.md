@@ -11,10 +11,10 @@ The original image:
 
 ![cheetah](https://github.com/neilchen1998/image-segmentation-project/blob/main/dataset/cheetah.bmp?raw=true)
 
-We use a panoply of algorithms to segment the foreground (cheetah) from the background (grass). Then we compare the results against each other and see which approach yields the best result (the lowest error rate).
+We use a panoply of algorithms to segment the foreground (cheetah) from the background (grass). Then we compare the results against each other and see which approach yields the best result (the lowest error rate compared with the idea mask).
 
 
-## Dataset [3]
+## Dataset [2]
 * cheetah.bmp
 * cheetah_mask.bmp
 * TrainingSamplesDCT_8.mat
