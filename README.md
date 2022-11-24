@@ -33,7 +33,7 @@ We use a panoply of algorithms to segment the foreground (cheetah) from the back
 * Naive Bayes
 
 <picture>
-  <img src="https://github.com/neilchen1998/image-segmentation-project/blob/main/results/estimation-maximization-result.jpg" width="250" height="250">
+  <img src="https://github.com/neilchen1998/image-segmentation-project/blob/main/results/naive-bayes-result.jpg.jpg" width="250" height="250">
 </picture>
 
 * Maximum Likelihood (ML)
